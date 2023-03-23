@@ -1,0 +1,12 @@
+diffusers[torch]
+accelerate
+torchvision
+transformers>=4.25.1
+ftfy
+tensorboard
+Jinja2
+wandb
+natsort
+safetensors
+datasets
+bitsandbytes
