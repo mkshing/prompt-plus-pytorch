@@ -1,4 +1,4 @@
-# [WIP] prompt-plus-pytorch
+# prompt-plus-pytorch
 <a href="https://colab.research.google.com/gist/mkshing/a4a7745572690427a83e942248126b3c/sd_prompt_plus_training.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 An implementation of [P+: Extended Textual Conditioning in Text-to-Image Generation](https://prompt-plus.github.io/) by using d🧨ffusers. 
@@ -106,3 +106,4 @@ python inference.py \
 - [x] Training
 - [x] Inference
 - [x] Style Mixing
+- [ ] Regularization 
